@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://rasheed-website.netlify.app/](https://rasheed-website.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://rasheed-website.netlify.app/](https://rashied.netlify.app/)
 
 - 💬 Ask me about **FrontEnd Technology**
 
