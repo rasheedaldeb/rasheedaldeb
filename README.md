@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rasheed Aldeb</h1>
-<h3 align="center">A Passionate Frontend Developer From Syria</h3>
+<h3 align="center">A Passionate FullStack Developer From Syria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasheedaldeb&label=Profile%20views&color=0e75b6&style=flat" alt="rasheedaldeb" /> </p>
 
