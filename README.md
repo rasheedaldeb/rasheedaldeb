@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Deved Up](https://deved-up.com/)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://rasheed-website.netlify.app/](https://rashied.netlify.app/)
 
