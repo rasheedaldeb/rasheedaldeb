@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Rasheed Aldeb 👋</h1>
-<h3 align="center">Results-Driven Full-Stack & Frontend Web Developer[cite: 1]</h3>
+<h3 align="center">Results-Driven Full-Stack & Frontend Web Developer</h3>
 
 <p align="center">
   <a href="mailto:rasheedaldeb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -10,11 +10,11 @@
 ---
 
 ## 👨‍💻 About Me
-* 🚀 I'm a Web Developer based in BabSharqi, Damascus, Syria, available for high-impact local and remote opportunities[cite: 1].
-* 📈 I specialize in building high-performance, SEO-optimized, and scalable web applications[cite: 1].
-* ⚡ I am an expert in optimizing Core Web Vitals, frequently driving PageSpeed scores to over 90%[cite: 1].
-* 🌍 I have strong experience engineering multi-lingual architectures and streamlining complex client-side data flows for enterprise apps[cite: 1].
-* 💬 Ask me about: **React, Next.js, TypeScript, and NoSQL/Relational Databases**[cite: 1].
+* 🚀 I'm a Web Developer based in BabSharqi, Damascus, Syria, available for high-impact local and remote opportunities.
+* 📈 I specialize in building high-performance, SEO-optimized, and scalable web applications.
+* ⚡ I am an expert in optimizing Core Web Vitals, frequently driving PageSpeed scores to over 90%.
+* 🌍 I have strong experience engineering multi-lingual architectures and streamlining complex client-side data flows for enterprise apps.
+* 💬 Ask me about: **React, Next.js, TypeScript, and NoSQL/Relational Databases.
 
 ## 🛠️ Tech Stack
 <p align="left">
@@ -28,32 +28,32 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 </p>
 
-* **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS, Redux Toolkit, JavaScript, TypeScript[cite: 1]
-* **Backend:** Node.js, Express.js, REST APIs[cite: 1]
-* **Databases & ORMs:** MongoDB, PostgreSQL, MySQL, Prisma, Drizzle ORM, Mongoose ODM, SQL[cite: 1]
-* **Workflow:** Git/GitHub, SEO, Agile Methodologies, Responsive Web Design[cite: 1]
+* **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS, Redux Toolkit, JavaScript, TypeScript.
+* **Backend:** Node.js, Express.js, REST APIs.
+* **Databases & ORMs:** MongoDB, PostgreSQL, MySQL, Prisma, Drizzle ORM, Mongoose ODM, SQL.
+* **Workflow:** Git/GitHub, SEO, Agile Methodologies, Responsive Web Design.
 
 ## 🚀 Featured Projects
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| **Deved-up Corporate Website** | Next.js 16, SSR, FramerMotion, i18next[cite: 1] | Built a high-velocity corporate platform with full Arabic/English dynamic localization, RTL layout support, and SSR for maximum SEO compliance[cite: 1]. |
-| **Tourism & Hotel Training Portal** | Next.js, React, PostgreSQL, MySQL, Prisma[cite: 1] | Designed the official platform and scalable admin dashboard to digitalize vocational training programs, student tracking, and workflows[cite: 1]. |
-| **Job-Tracker** | Next.js, Better-Auth, MongoDB, Mongoose, Tailwind, Shadcn-UI[cite: 1] | Full-stack application helping users organize and analyze job application pipelines, featuring secure authentication and robust data management[cite: 1]. |
+| **Deved-up Corporate Website** | Next.js 16, SSR, FramerMotion, i18next | Built a high-velocity corporate platform with full Arabic/English dynamic localization, RTL layout support, and SSR for maximum SEO compliance. 
+| **Tourism & Hotel Training Portal** | Next.js, React, PostgreSQL, MySQL, Prisma | Designed the official platform and scalable admin dashboard to digitalize vocational training programs, student tracking, and workflows. 
+| **Job-Tracker** | Next.js, Better-Auth, MongoDB, Mongoose, Tailwind, Shadcn-UI | Full-stack application helping users organize and analyze job application pipelines, featuring secure authentication and robust data management. 
 
 ## 💼 Experience Highlight
 
-* **Full-Stack & Frontend Web Developer (Freelance/Remote)** | *2024 - Present*[cite: 1]
-  * Architected production-ready apps and successfully raised average Google PageSpeed Insights scores from 68% to over 90%[cite: 1].
-* **Frontend Developer at Eli-Syr (Damascus)** | *Aug 2025 - Oct 2025*[cite: 1]
-  * Engineered React interfaces with Tailwind, standardizing design tokens and reducing codebase redundancy by 25%[cite: 1].
-* **Web Developer at OFT (Remote)** | *Oct 2024 - Mar 2025*[cite: 1]
-  * Boosted web platform responsiveness and loading speeds by 30% via asset optimization, caching, and layout restructuring[cite: 1].
+* **Full-Stack & Frontend Web Developer (Freelance/Remote) | *2024 - Present
+  * Architected production-ready apps and successfully raised average Google PageSpeed Insights scores from 68% to over 90%.
+* **Frontend Developer at Eli-Syr (Damascus)** | *Aug 2025 - Oct 2025.
+  * Engineered React interfaces with Tailwind, standardizing design tokens and reducing codebase redundancy by 25%.
+* **Web Developer at OFT (Remote)** | *Oct 2024 - Mar 2025.
+  * Boosted web platform responsiveness and loading speeds by 30% via asset optimization, caching, and layout restructuring.
 
 ## 🎓 Education & Certifications
-* **Learn Express.js & Learn Node.js** - Scrimba / Coursera *(June 2026)*[cite: 1]
-* **Professional Certification in Frontend Development** - Vica Web Solutions *(2023)*[cite: 1]
-* **Associate Degree / Diploma in Technical Support** - Damascus University *(2021-2022)*[cite: 1]
+* **Learn Express.js & Learn Node.js** - Scrimba / Coursera *(June 2026).
+* **Professional Certification in Frontend Development** - Vica Web Solutions *(2023).
+* **Associate Degree / Diploma in Technical Support** - Damascus University *(2021-2022).
 
 <br>
 <p align="center">
