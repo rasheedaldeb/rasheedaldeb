@@ -1,30 +1,61 @@
-<h1 align="center">Hi 👋, I'm Rasheed Aldeb</h1>
-<h3 align="center">A Passionate FullStack Developer From Syria</h3>
+<h1 align="center">Hi there, I'm Rasheed Aldeb 👋</h1>
+<h3 align="center">Results-Driven Full-Stack & Frontend Web Developer[cite: 1]</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rasheedaldeb&label=Profile%20views&color=0e75b6&style=flat" alt="rasheedaldeb" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasheedaldeb" alt="rasheedaldeb" /></a> </p>
-
-- 🔭 I’m currently working on [Deved Up](https://deved-up.com/)
-
-- 🌱 I’m currently learning **Next.js**
-
-- 👨‍💻 All of my projects are available at [https://rasheed-website.netlify.app/](https://rashied.netlify.app/)
-
-- 💬 Ask me about **FrontEnd Technology**
-
-- 📫 How to reach me **rasheedaldeb@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rasheed-aldeb-a3aa68259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rasheed-aldeb-a3aa68259" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/rashed.aldeb.16?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rashed.aldeb.16?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/rashedaldeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rashedaldeb" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:rasheedaldeb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/rasheedaldeb"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://portfolio-black-five-83.vercel.app"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasheedaldeb&show_icons=true&locale=en&layout=compact" alt="rasheedaldeb" /></p>
+## 👨‍💻 About Me
+* 🚀 I'm a Web Developer based in BabSharqi, Damascus, Syria, available for high-impact local and remote opportunities[cite: 1].
+* 📈 I specialize in building high-performance, SEO-optimized, and scalable web applications[cite: 1].
+* ⚡ I am an expert in optimizing Core Web Vitals, frequently driving PageSpeed scores to over 90%[cite: 1].
+* 🌍 I have strong experience engineering multi-lingual architectures and streamlining complex client-side data flows for enterprise apps[cite: 1].
+* 💬 Ask me about: **React, Next.js, TypeScript, and NoSQL/Relational Databases**[cite: 1].
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasheedaldeb&show_icons=true&locale=en" alt="rasheedaldeb" /></p>
+## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+</p>
+
+* **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS, Redux Toolkit, JavaScript, TypeScript[cite: 1]
+* **Backend:** Node.js, Express.js, REST APIs[cite: 1]
+* **Databases & ORMs:** MongoDB, PostgreSQL, MySQL, Prisma, Drizzle ORM, Mongoose ODM, SQL[cite: 1]
+* **Workflow:** Git/GitHub, SEO, Agile Methodologies, Responsive Web Design[cite: 1]
+
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| **Deved-up Corporate Website** | Next.js 16, SSR, FramerMotion, i18next[cite: 1] | Built a high-velocity corporate platform with full Arabic/English dynamic localization, RTL layout support, and SSR for maximum SEO compliance[cite: 1]. |
+| **Tourism & Hotel Training Portal** | Next.js, React, PostgreSQL, MySQL, Prisma[cite: 1] | Designed the official platform and scalable admin dashboard to digitalize vocational training programs, student tracking, and workflows[cite: 1]. |
+| **Job-Tracker** | Next.js, Better-Auth, MongoDB, Mongoose, Tailwind, Shadcn-UI[cite: 1] | Full-stack application helping users organize and analyze job application pipelines, featuring secure authentication and robust data management[cite: 1]. |
+
+## 💼 Experience Highlight
+
+* **Full-Stack & Frontend Web Developer (Freelance/Remote)** | *2024 - Present*[cite: 1]
+  * Architected production-ready apps and successfully raised average Google PageSpeed Insights scores from 68% to over 90%[cite: 1].
+* **Frontend Developer at Eli-Syr (Damascus)** | *Aug 2025 - Oct 2025*[cite: 1]
+  * Engineered React interfaces with Tailwind, standardizing design tokens and reducing codebase redundancy by 25%[cite: 1].
+* **Web Developer at OFT (Remote)** | *Oct 2024 - Mar 2025*[cite: 1]
+  * Boosted web platform responsiveness and loading speeds by 30% via asset optimization, caching, and layout restructuring[cite: 1].
+
+## 🎓 Education & Certifications
+* **Learn Express.js & Learn Node.js** - Scrimba / Coursera *(June 2026)*[cite: 1]
+* **Professional Certification in Frontend Development** - Vica Web Solutions *(2023)*[cite: 1]
+* **Associate Degree / Diploma in Technical Support** - Damascus University *(2021-2022)*[cite: 1]
+
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rasheedaldeb&show_icons=true&theme=radium" alt="Rasheed's GitHub Stats" />
+</p>
