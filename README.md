@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Rasheed Aldeb 👋</h1>
-<h3 align="center">Results-Driven Full-Stack & Frontend Web Developer</h3>
+<h3 align="center">Results-Driven Full-Stack Web Developer</h3>
 
 <p align="center">
   <a href="mailto:rasheedaldeb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -14,7 +14,7 @@
 * 📈 I specialize in building high-performance, SEO-optimized, and scalable web applications.
 * ⚡ I am an expert in optimizing Core Web Vitals, frequently driving PageSpeed scores to over 90%.
 * 🌍 I have strong experience engineering multi-lingual architectures and streamlining complex client-side data flows for enterprise apps.
-* 💬 Ask me about: **React, Next.js, TypeScript, and NoSQL/Relational Databases.
+* 💬 Ask me about: **React, Next.js, TypeScript , Node.js , Express.js and NoSQL/Relational Databases.
 
 ## 🛠️ Tech Stack
 <p align="left">
@@ -39,7 +39,7 @@
 |---------|------------|-------------|
 | **Deved-up Corporate Website** | Next.js 16, SSR, FramerMotion, i18next | Built a high-velocity corporate platform with full Arabic/English dynamic localization, RTL layout support, and SSR for maximum SEO compliance. 
 | **Tourism & Hotel Training Portal** | Next.js, React, PostgreSQL, MySQL, Prisma | Designed the official platform and scalable admin dashboard to digitalize vocational training programs, student tracking, and workflows. 
-| **Job-Tracker** | Next.js, Better-Auth, MongoDB, Mongoose, Tailwind, Shadcn-UI | Full-stack application helping users organize and analyze job application pipelines, featuring secure authentication and robust data management. 
+
 
 ## 💼 Experience Highlight
 
