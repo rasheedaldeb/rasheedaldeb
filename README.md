@@ -56,8 +56,10 @@ I build fast, scalable, SEO-optimized web apps — from public-facing platforms 
 
 | Project | Tech Stack | Description |
 |---|---|---|
+| **[GESCO — Environmental Solutions](https://gesco-gamma.vercel.app/)** | Next.js, Tailwind CSS, Framer Motion, Swiper, i18n | High-performance, fully responsive corporate web app for an environmental services firm with modern interactive elements and full bilingual support. |
 | **[Deved-Up — Architecture & Design](https://deved-up.com/)** | Next.js 16, SSR, Framer Motion, i18next | High-velocity corporate platform with full Arabic/English localization, RTL support, and SSR for maximum SEO compliance. |
 | **[General Commission for Tourism & Hotel Training](https://gc-tht.edu.sy/)** | Next.js, React, PostgreSQL, MySQL, Prisma | Official public platform for Syria's tourism & hospitality training authority — news, centers, activities, and applications. |
+| **[Cinpaa Training Platform](https://front-end.cinpaa.org/)** | React, Axios , TailwindCss , MUI | Official public platform for cinpaa's tourism & hospitality training authority — news, and company information. |
 
 ### 🖥️ Admin Panels & Dashboards
 
@@ -67,7 +69,6 @@ I build fast, scalable, SEO-optimized web apps — from public-facing platforms 
 | **Tranplus Admin Panel** | React, React Router, TypeScript, Redux Toolkit | Delivery admin dashboard to manage orders, drivers, customers, and delivery performance in a unified system. |
 | **POS Open Spark** *(SaaS, in development)* | React, React Router, TypeScript, Axios, OpenAPI Generator, OIDC/OAuth2, MUI, Tailwind | Accounting SaaS system simplifying financial management — transactions, invoices, expenses, and centralized reporting. |
 | **Tourism & Hotel Training Admin Panel** | React.js, Tailwind CSS, MUI, Swiper, Axios | Admin panel for the General Commission for Tourism & Hotel Training — manages centers, news, and ads. |
-| **[Job-Tracker](https://github.com/rasheedaldeb)** | Next.js, Better-Auth, MongoDB, Mongoose, Tailwind, Shadcn/UI | Full-stack app for organizing and analyzing job application pipelines, with secure auth and robust data management. |
 
 <br>
 
