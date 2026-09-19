@@ -1,101 +1,81 @@
-<div align="center">
 
-# Hi, I'm Rasheed Aldeb 👋
-### Results-Driven Full-Stack Web Developer
-
-I build fast, scalable, SEO-optimized web apps — from public-facing platforms to full admin dashboards.
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasheedaldeb@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rasheedaldeb)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-black-five-83.vercel.app)
-
-</div>
-
-<br>
-
-## 👨‍💻 About Me
-
-- 🚀 Web Developer based in Bab Sharqi, Damascus, Syria — available for local and remote opportunities.
-- 📈 I build high-performance, SEO-optimized, scalable web applications.
-- ⚡ I specialize in Core Web Vitals optimization, frequently driving PageSpeed scores above 90%.
-- 🌍 Strong experience with multi-lingual (Arabic/English, RTL) architectures and complex client-side data flows for enterprise apps.
-- 💬 Ask me about: **React, Next.js, TypeScript, Node.js, Express.js, and NoSQL/Relational Databases**
-
-<br>
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<p align="center">
+  <a href="https://github.com/rasheedaldeb">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Rasheed" alt="Hello! I&#39;m Rasheed" />
+  </a>
 </p>
 
-- **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS, MUI, Redux Toolkit, JavaScript, TypeScript
-- **Backend:** Node.js, Express.js, REST APIs, OAuth2/OIDC
-- **Databases & ORMs:** MongoDB, PostgreSQL, MySQL, Prisma, Drizzle ORM, Mongoose ODM, SQL
-- **Realtime & Tooling:** SignalR, Firebase, React Query, Git/GitHub, SEO, Agile, Responsive Design
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=880&height=44&lines=I%20do%20Full-Stack%20Web%20Development;%E2%9A%A1%20Turning%20ideas%20into%20fast%2C%20SEO-optimized%20web%20experiences" alt="Typing headlines" />
+</p>
 
-<br>
+### 🚀 About Me
 
-## 🚀 Featured Projects
+Software Engineer, experienced in web development technologies, building high-performance web applications using modern technologies
 
-### 🌐 Client & Company Platforms
+🔭 &nbsp;I'm currently working on **a real-time sport web application**  
+🌱 &nbsp;I'm currently learning **AI integration**  
+💬 &nbsp;Ask me about **React, Next.js, Node.js, Express.js**
 
-| Project | Tech Stack | Description |
-|---|---|---|
-| **[GESCO — Environmental Solutions](https://gesco-gamma.vercel.app/)** | Next.js, Tailwind CSS, Framer Motion, Swiper, i18n | High-performance, fully responsive corporate web app for an environmental services firm with modern interactive elements and full bilingual support. |
-| **[Deved-Up — Architecture & Design](https://deved-up.com/)** | Next.js 16, SSR, Framer Motion, i18next | High-velocity corporate platform with full Arabic/English localization, RTL support, and SSR for maximum SEO compliance. |
-| **[General Commission for Tourism & Hotel Training](https://gc-tht.edu.sy/)** | Next.js, React, PostgreSQL, MySQL, Prisma | Official public platform for Syria's tourism & hospitality training authority — news, centers, activities, and applications. |
-| **[Cinpaa Training Platform](https://front-end.cinpaa.org/)** | React, Axios , TailwindCss , MUI | Official public platform for cinpaa's tourism & hospitality training authority — news, and company information. |
+### 🛠️ Tech Stack
 
-### 🖥️ Admin Panels & Dashboards
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
+</p>
 
-| Project | Tech Stack | Description |
-|---|---|---|
-| **Ecotransferz Admin Panel** | React, React Query, React Router, SignalR, Firebase, MUI, Tailwind | Admin panel for a taxi app — manages drivers, passengers, trips, payments, and analytics through a real-time dashboard. |
-| **Tranplus Admin Panel** | React, React Router, TypeScript, Redux Toolkit | Delivery admin dashboard to manage orders, drivers, customers, and delivery performance in a unified system. |
-| **POS Open Spark** *(SaaS, in development)* | React, React Router, TypeScript, Axios, OpenAPI Generator, OIDC/OAuth2, MUI, Tailwind | Accounting SaaS system simplifying financial management — transactions, invoices, expenses, and centralized reporting. |
-| **Tourism & Hotel Training Admin Panel** | React.js, Tailwind CSS, MUI, Swiper, Axios | Admin panel for the General Commission for Tourism & Hotel Training — manages centers, news, and ads. |
+### 🔗 Connect With Me
 
-<br>
+<p align="left">
+  <a href="https://www.linkedin.com/in/rasheed-aldeb-a3aa68259"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/rasheedaldeb"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://portfolio-black-five-83.vercel.app"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:rasheedaldeb@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-## 💼 Experience
+### 📊 GitHub Stats
 
-- **Full-Stack & Frontend Web Developer** — *Freelance / Remote* · 2024 – Present
-  Architected production-ready apps, raising average Google PageSpeed Insights scores from 68% to 90%+.
-- **Frontend Developer** — *Eli-Syr, Damascus* · Aug 2025 – Oct 2025
-  Engineered React interfaces with Tailwind, standardizing design tokens and cutting codebase redundancy by 25%.
-- **Web Developer** — *OFT, Remote* · Oct 2024 – Mar 2025
-  Boosted platform responsiveness and load speed by 30% via asset optimization, caching, and layout restructuring.
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=rasheedaldeb&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=rasheedaldeb&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
-<br>
+### 📈 Contribution Graph
 
-## 🎓 Education & Certifications
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=rasheedaldeb&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
-- **Learn Express.js & Learn Node.js** — Scrimba / Coursera *(2026)*
-- **Professional Certification in Frontend Development** — Vica Web Solutions *(2023)*
-- **Associate Degree / Diploma in Technical Support** — Damascus University *(2021–2022)*
+### 💭 Dev Quote
 
-<br>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
 
-<div align="center">
-
-![Rasheed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasheedaldeb&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasheedaldeb&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rasheedaldeb&theme=radical&hide_border=true)
-
-</div>
+---
+<p align="center"><i>⭐️ From <a href="https://github.com/rasheedaldeb">rasheedaldeb</a></i></p>
