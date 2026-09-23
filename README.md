@@ -1,11 +1,11 @@
 <p align="center">
-
   <a href="https://github.com/rasheedaldeb">
-
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=858&text=Hello!%20I'm%20Rasheed%20Aldeb" alt="Hello! I&#39;m Rasheed Aldeb" />
-
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=858&text=Hello!%20I'm%20Rasheed%20Aldeb" alt="Hello! I'm Rasheed Aldeb" />
   </a>
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=445&height=44&lines=I%20do%20Full-Stack%20Development" alt="Typing headlines" />
 </p>
 
 
