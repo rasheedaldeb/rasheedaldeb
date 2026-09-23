@@ -10,11 +10,7 @@
 
 
 
-<p align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=445&height=44&lines=I%20do%20Full-Stack%20Development" alt="Typing headlines" />
-
-</p>
 
 
 
